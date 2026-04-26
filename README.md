@@ -4,9 +4,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 Learning **Next.js / Backend / DevOps (edit this)**
-- 💬 Ask me about **JavaScript, React, Node.js**
+- 🔭 I’m currently working on POS Inventory
+- 🌱 Learning Python
+- 💬 Ask me about **PHP, Laravel, Vue, React, Node.js, Express js**
 - 📫 Reach me at: dev.munna007@gmail.com
 - ⚡ Fun fact: I love building real-world projects
 
