@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Monir Hasan Munna</h1>
+<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast</h3>
 
-<!--
-**Monirhasanmunna/Monirhasanmunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **[Your Project Name]**
+- 🌱 Learning **Next.js / Backend / DevOps (edit this)**
+- 💬 Ask me about **JavaScript, React, Node.js**
+- 📫 Reach me at: **your@email.com**
+- ⚡ Fun fact: I love building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: PHP, Node
+- 🌐 Frontend: Vue, React, Alpine, HTML, CSS, Tailwind
+- 🛢️ Backend: Laravel, Inertia, Node, Express js
+- 🗄️ Database: Mysql / Posgress
+- ⚙️ Tools: Git, GitHub, VS Code, PHP Storm
+
+---
+
+## 📌 Featured Projects
+- 🔗 [Project 1](https://github.com/your-repo) – Short description
+- 🔗 [Project 2](https://github.com/your-repo) – Short description
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monirhasanmunna&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monirhasanmunna&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/devmunna007/
+- Portfolio: https://yourportfolio.com
