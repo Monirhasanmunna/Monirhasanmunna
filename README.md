@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **[Your Project Name]**
 - 🌱 Learning **Next.js / Backend / DevOps (edit this)**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: dev.munna007@gmail.com
 - ⚡ Fun fact: I love building real-world projects
 
 ---
